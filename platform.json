@@ -73,8 +73,7 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "https://github.com/espressif/arduino-esp32.git#1.0.5-rc4"
+      "version": "https://github.com/espressif/arduino-esp32.git@1.0.5-rc4"
     },
     "framework-arduino-mbcwb": {
       "type": "framework",
